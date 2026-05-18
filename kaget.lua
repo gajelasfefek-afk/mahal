@@ -16,9 +16,10 @@ _G.FishItConfig = {
         ["Whitelist Username"] = {"matnjoystok"}, 
         ["Category Fish"] = {"Secret"},
         ["Fish Name"] = {
+            "Sacred Guardian Squit"
             {Name = "Ruby", Variant = "Gemstone"},
           },
-        ["Item Name"] = {"Runic Enchant Stone"},
+        ["Item Name"] = {"Evolved Enchant Stone"},
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,
@@ -98,7 +99,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
