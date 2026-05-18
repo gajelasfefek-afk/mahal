@@ -19,7 +19,7 @@ _G.FishItConfig = {
             "Sacred Guardian Squid", 
             {Name = "Ruby", Variant = "Gemstone"},
           },
-        ["Item Name"] = {"Evolved Enchant Stone"},
+        ["Item Name"] = {"Runic Enchant Stone"},
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,
