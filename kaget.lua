@@ -16,7 +16,7 @@ _G.FishItConfig = {
         ["Whitelist Username"] = {"matnjoystok"}, 
         ["Category Fish"] = {"Secret"},
         ["Fish Name"] = {
-            "Sacred Guardian Squid"
+            "Sacred Guardian Squid", 
             {Name = "Ruby", Variant = "Gemstone"},
           },
         ["Item Name"] = {"Evolved Enchant Stone"},
