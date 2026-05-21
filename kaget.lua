@@ -33,8 +33,8 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
-        ["Unlock Ancient Ruin"] = false,
+        ["Auto Element Rod 2"] = true,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
             "Blob Shark", "Narhwal Skeleton", "King Jelly", "Mosasaur Shark", 
@@ -77,12 +77,11 @@ _G.FishItConfig = {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
+        ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = false,
+        ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
-            "Reeler I", "SECRET Hunter", "Shark Hunter", "Mutation Hunter III", 
-            "Leprechaun II", "Mutation Hunter II", "Prismatic I", "Big Hunter I", "Empowered",
+            "SECRET Hunter",
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark"},
