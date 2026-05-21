@@ -17,7 +17,7 @@ _G.FishItConfig = {
         ["Category Fish"] = {"Secret"},
         ["Fish Name"] = {
             "Sacred Guardian Squid", 
-            {Name = "Ruby", Variant = "Gemstone"}
+            {Name = "Ruby", Variant = "Gemstone"},
           },
         ["Item Name"] = {"Runic Enchant Stone"},
     },
