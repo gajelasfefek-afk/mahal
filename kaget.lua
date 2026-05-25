@@ -19,7 +19,7 @@ _G.FishItConfig = {
             "Sacred Guardian Squid", 
             {Name = "Ruby", Variant = "Gemstone"},
           },
-        ["Item Name"] = {"Runic Enchant Stone"},
+        ["Item Name"] = {"Evolved Enchant Stone"},
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,
@@ -33,7 +33,7 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
+        ["Auto Element Rod 2"] = true,
         ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
@@ -81,10 +81,10 @@ _G.FishItConfig = {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
-            "SECRET Hunter",
+            "SECRET Hunter", "Reeler II", 
         },
-        ["Second Enchant"] = false,
-        ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark"},
+        ["Second Enchant"] = true,
+        ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark", "Queen Crab", "King Crab"},
         ["Second Enchant List"] = {"Reeler I", "Prismatic I", "Mutation Hunter II"},
         ["Minimum Rod"] = "Element Rod",
     },
