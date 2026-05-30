@@ -16,10 +16,9 @@ _G.FishItConfig = {
         ["Whitelist Username"] = {"matnjoystok"}, 
         ["Category Fish"] = {"Secret"},
         ["Fish Name"] = {
-            "Sacred Guardian Squid", 
             {Name = "Ruby", Variant = "Gemstone"},
-          },
-        ["Item Name"] = {"Evolved Enchant Stone"},
+        },
+        ["Item Name"] = {"Runic Enchant Stone", "Evolved Enchant Stone"},
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,
@@ -33,8 +32,8 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = true,
-        ["Unlock Ancient Ruin"] = true,
+        ["Auto Element Rod 2"] = false,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
             "Blob Shark", "Narhwal Skeleton", "King Jelly", "Mosasaur Shark", 
@@ -98,7 +97,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
