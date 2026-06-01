@@ -32,8 +32,8 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
-        ["Unlock Ancient Ruin"] = false,
+        ["Auto Element Rod 2"] = true,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
             "Blob Shark", "Narhwal Skeleton", "King Jelly", "Mosasaur Shark", 
@@ -80,7 +80,7 @@ _G.FishItConfig = {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
-            "SECRET Hunter", "Reeler II", 
+            "SECRET Hunter", 
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark", "Queen Crab", "King Crab"},
@@ -97,7 +97,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
