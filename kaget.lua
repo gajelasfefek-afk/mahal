@@ -72,7 +72,7 @@ _G.FishItConfig = {
         ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            ["Christmas Cave"] = false,
+            "Megalodon Hunt", 
         },
     },
     ["Enchant"] = {
