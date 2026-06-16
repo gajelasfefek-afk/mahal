@@ -13,7 +13,7 @@ _G.FishItConfig = {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"matnjoystok", "anakanweha"}, 
+        ["Whitelist Username"] = {"matnjoystok", "anakanweha", "bakulaziz"}, 
         ["Category Fish"] = {"Secret"},
         ["Fish Name"] = {
             {Name = "Ruby", Variant = "Gemstone"},
@@ -97,7 +97,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
