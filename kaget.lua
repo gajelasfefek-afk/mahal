@@ -7,6 +7,7 @@ _G.FishItConfig = {
         ["Fish Name"] = {
             "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
+            {Name = "Megalodon", Variant = "Corrupt, Galaxy, Gemstone, Ghost, Lightning, Fairy Dust, Gold, Midnight, Radioactive, Stone, Festive, Frozen, Holographic, Albino, Color Burn, Bloodmoon, Sandy, Moon Fragment, 1x1x1x1, Disco, Noob, Arctic Frost, Leviathan Rage, Crystalized, Fire"},
         },
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
