@@ -5,7 +5,7 @@ _G.FishItConfig = {
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
-            "Sacred Guardian Squid",
+            "",
             {Name = "Ruby", Variant = "Gemstone"},
             {Name = "Megalodon", Variant = "Corrupt, Galaxy, Gemstone, Ghost, Lightning, Fairy Dust, Gold, Midnight, Radioactive, Stone, Festive, Frozen, Holographic, Albino, Color Burn, Bloodmoon, Sandy, Moon Fragment, 1x1x1x1, Disco, Noob, Arctic Frost, Leviathan Rage, Crystalized, Fire"},
         },
@@ -33,8 +33,8 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = true,
-        ["Unlock Ancient Ruin"] = true,
+        ["Auto Element Rod 2"] = false,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
             "Blob Shark", "Narhwal Skeleton", "King Jelly", "Mosasaur Shark", 
@@ -70,17 +70,17 @@ _G.FishItConfig = {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = true,
+        ["Start Farm"] = false,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Megalodon Hunt", 
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = true,
+        ["Auto Enchant"] = false,
         ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = true,
-        ["Farm Until Enchant"] = true, 
+        ["Evolved Roll Enchant"] = false,
+        ["Farm Until Enchant"] = false, 
         ["Enchant List"] = {
             "SECRET Hunter", 
         },
@@ -105,7 +105,7 @@ _G.FishItConfig = {
     ["ExtremeFpsBoost"] = false,
     ["UltimatePerformance"] = false,
     ["Disable3DRender"] = false,
-    ["AutoRemovePlayer"] = false,
+    ["AutoRemovPlayer"] = false,
     ["AutoReconnect"] = false,
     ["HideGUI"] = false,
     ["EXIT_MAP_IF_DISCONNECT"] = false,
