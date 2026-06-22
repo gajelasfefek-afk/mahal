@@ -33,7 +33,7 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
+        ["Auto Element Rod 2"] = true,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
@@ -70,7 +70,7 @@ _G.FishItConfig = {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Megalodon Hunt", 
