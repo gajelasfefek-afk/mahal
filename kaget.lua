@@ -80,8 +80,8 @@ _G.FishItConfig = {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
-        ["Farm Until Enchant"] = false,
-        ["Enchant X Stone"] = 30,
+        ["Farm Until Enchant"] = true,
+        ["Enchant X Stone"] = 10,
         ["Enchant List"] = {
             "SECRET Hunter", 
         },
@@ -100,7 +100,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
