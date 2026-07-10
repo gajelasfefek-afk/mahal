@@ -70,7 +70,7 @@ _G.FishItConfig = {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Megalodon Hunt", 
@@ -86,7 +86,7 @@ _G.FishItConfig = {
             "SECRET Hunter", 
         },
         ["Second Enchant"] = true,
-        ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark", "Queen Crab", "King Crab", " Deepsea Monster Axolotl"},
+        ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark", "Queen Crab", "King Crab", "Deepsea Monster Axolotl", "Ghost Shark"},
         ["Second Enchant List"] = {"Reeler I", "Prismatic I", "Mutation Hunter II"},
         ["Minimum Rod"] = "Element Rod",
     },
