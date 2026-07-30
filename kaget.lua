@@ -35,8 +35,8 @@ _G.FishItConfig = {
         ["Auto Element Rod"] = false,
         ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
-        ["Auto Aetherion Bait"] = true,
-        ["Unlock Ancient Ruin"] = false,
+        ["Auto Aetherion Bait"] = false,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
             "Blob Shark", "Narhwal Skeleton", "King Jelly", "Mosasaur Shark", 
@@ -72,7 +72,7 @@ _G.FishItConfig = {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Megalodon Hunt", 
