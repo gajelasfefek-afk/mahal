@@ -35,7 +35,7 @@ _G.FishItConfig = {
         ["Auto Element Rod"] = false,
         ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
-        ["Auto Aetherion Bait"] = false,
+        ["Auto Aetherion Bait"] = true,
         ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
