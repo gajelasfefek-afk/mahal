@@ -47,7 +47,7 @@ _G.FishItConfig = {
         ["Minimum Rod"] = "Astral Rod",
     },
     ["WebHook"] = {
-        ["Link Webhook"] = "https://discord.com/api/webhooks/1448076320788447312/ghRFulPr9eMWB_noU22hs3m-uRLt77swuFHO58_JOc8UjrobTI_vEZLNL7Z0VbpEFjyX",
+        ["Link Webhook"] = "https://discord.com/api/webhooks/1543438603169042452/cr2zESuuqWBBTK2nN1KfxpGP7kQsLmZQASRKQNmbXvJU5uPOzc-kU7gGM3AItbdQ94pK",
         ["Auto Sending"] = true,
         ["Category"] = {
             "Secret", 
