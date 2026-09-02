@@ -48,13 +48,13 @@ _G.FishItConfig = {
         ["Minimum Rod"] = "Astral Rod",
     },
     ["WebHook"] = {
-        ["Link Webhook"] = "https://discord.com/api/webhooks/1543438603169042452/cr2zESuuqWBBTK2nN1KfxpGP7kQsLmZQASRKQNmbXvJU5uPOzc-kU7gGM3AItbdQ94pK",
+        ["Link Webhook"] = "https://discord.com/api/webhooks/1544666129853714452/wJ9Wn81lQpBNRx_6m9KCsaqLRCglU-CGQNBsmzsH-PaEsZUZRfJiX3P7QurE2H50FoyU",
         ["Auto Sending"] = true,
         ["Category"] = {
             "Secret", 
             {Name = "Ruby", Variant = "Gemstone"}, 
         },
-        ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1466008452060156047/BP_G3W_ffJP51akp19IwScrj2QJdMl1TKcnFNrxe9RJkofZ36W_7GMuxlbFudosaq6vq",
+        ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1543284100666757184/Xjm5zz2AAea8ehcdd4gj1FUvqcgs4YoP2B0sxqSHhoxiG8lUMBmpV69w5bJ6j7pmjuik",
     }, 
     ["Weather"] = {
         ["Auto Buying"] = true,
