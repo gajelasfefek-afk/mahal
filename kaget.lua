@@ -77,7 +77,6 @@ _G.FishItConfig = {
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Elemental Event",
-            "Megalodon Hunt", 
         },
     },
     ["Enchant"] = {
