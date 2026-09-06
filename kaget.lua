@@ -73,7 +73,7 @@ _G.FishItConfig = {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Elemental Event",
@@ -103,7 +103,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Sewers"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["ExtremeFpsBoost"] = false,
