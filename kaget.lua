@@ -106,6 +106,7 @@ _G.FishItConfig = {
             ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
+    ["FPS Cap"] = 8,
     ["ExtremeFpsBoost"] = false,
     ["UltimatePerformance"] = false,
     ["Disable3DRender"] = false,
