@@ -14,7 +14,7 @@ _G.FishItConfig = {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"matnjoystok", "bangkitcob"}, 
+        ["Whitelist Username"] = {"matnjoystok", "capeyasgua"}, 
         ["Category Fish"] = {"Forgotten", "Secret"},
         ["Fish Name"] = {
             {Name = "Ruby", Variant = "Gemstone"},
