@@ -9,6 +9,7 @@ _G.FishItConfig = {
             {Name = "Ruby", Variant = "Gemstone"},
             {Name = "Megalodon", Variant = "Corrupt", "Galaxy", "Gemstone", "Ghost", "Lightning", "Fairy Dust", "Gold", "Midnight", "Radioactive", "Stone", "Festive", "Frozen", "Holographic", "Albino", "Color Burn", "Sandy", "Fire"},
         },
+        ["Trade Timeout"] = 90, 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
     },
