@@ -34,10 +34,10 @@ _G.FishItConfig = {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = true,
+        ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
         ["Auto Aetherion Bait"] = false,
-        ["Unlock Elemental Island"] = true, 
+        ["Unlock Elemental Island"] = false, 
         ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark", "Cryoshade Glider", "Queen Crab", "King Crab", 
@@ -104,7 +104,7 @@ _G.FishItConfig = {
         ["Location Rods"] = {
             ["Kohana Volcano"] = {"Starter Rod", "Grass Rod", "Luck Rod"},
             ["Treasure Room"] = {"Midnight Rod", "Astral Rod"},
-            ["Sewers"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
         },
     },
     ["FPS Cap"] = 8,
