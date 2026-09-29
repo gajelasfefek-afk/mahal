@@ -92,7 +92,7 @@ _G.FishItConfig = {
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {"Frostborn Shark", "Cryoshade Glider", "Blob Shark", "Queen Crab", "King Crab", "Deepsea Monster Axolotl", "Ghost Shark"},
         ["Second Enchant List"] = {"Reeler I", "Prismatic I", "Mutation Hunter II"},
-        ["Minimum Rod"] = "Element Rod",
+        ["Minimum Rod"] = "Element Rod", "Ghostfinn Rod", 
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
